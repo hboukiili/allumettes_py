@@ -1,6 +1,6 @@
 # allumettes_py
 
-Le jeu des allumettes se joue à deux joueurs. Un tas d'allumettes, généralement 17 est déposé
+Le jeu des allumettes se joue à deux joueurs. Un tas d'allumettes, généralement X est déposé
 sur une table. Chaque joueur à tour de rôle prend de une à trois allumettes du tas. Le gagnant
 est celui qui parvient à prendre la (les) dernière(s) allumette(s) du tas.
 
